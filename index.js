@@ -13,3 +13,4 @@ const newID = 1000000000 + oldID;
 if (currentAgeIsInteger) {
   expect (ageIsValid) = true;
 }
+else
