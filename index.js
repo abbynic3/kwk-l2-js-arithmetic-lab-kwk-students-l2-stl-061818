@@ -10,7 +10,7 @@ You should NOT try to redefine any of the above variables.
 
 const newID = 1000000000 + oldID;
 
-const ageIsValid = true;
+const ageIsValid = currentAge.parseInt;
 if (currentAgeIsInteger) {
   expect (ageIsValid = true;
 }
